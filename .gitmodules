@@ -1,0 +1,3 @@
+[submodule "themes/foopgp-hugotheme"]
+	path = themes/foopgp-hugotheme
+	url = git@github.com:foopgp/foopgp-hugotheme.git
