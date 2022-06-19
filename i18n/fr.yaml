@@ -10,8 +10,20 @@
 - id: "legal notice"
   translation: mentions légales
 
+- id: "our offer"
+  translation: notre offre
+
 - id: partners
   translation: partenaires
+
+- id: products
+  translation: produits
+
+- id: software
+  translation: logiciel
+
+- id: "the members"
+  translation: le crou
 
 - id: trainings
   translation: formations

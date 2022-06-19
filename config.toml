@@ -48,8 +48,8 @@ link = "plugins/fuse/fuse.js"
 
 # main menu
 [[menu.main]]
-weight = 1
 name = "about"
+weight = 1
 hasChildren = true
 
   [[menu.main]]
@@ -60,7 +60,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "about"
-  name = "people"
+  name = "the members"
   URL = "author"
   weight = 2
 
@@ -71,9 +71,27 @@ hasChildren = true
   weight = 3
 
 [[menu.main]]
-name = "our services"
-URL = "solutions"
+name = "our offer"
 weight = 2
+hasChildren = true
+
+  [[menu.main]]
+  parent = "our offer"
+  name = "software"
+  URL = "solutions/software"
+  weight = 1
+
+  [[menu.main]]
+  parent = "our offer"
+  name = "services"
+  URL = "solutions/services"
+  weight = 2
+
+  [[menu.main]]
+  parent = "our offer"
+  name = "products"
+  URL = "solutions/products"
+  weight = 3
 
 #[[menu.main]]
 #name = "trainings"
