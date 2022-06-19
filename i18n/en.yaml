@@ -1,0 +1,18 @@
+- id: about
+  translation: about
+
+- id: email
+  translation: email
+
+- id: home
+  translation: home
+
+- id: "legal notice"
+  translation: legal notice
+
+- id: partners
+  translation: partners
+
+- id: trainings
+  translation: training
+
