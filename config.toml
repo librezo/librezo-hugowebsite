@@ -60,7 +60,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "about"
-  name = "the members"
+  name = "the team"
   URL = "author"
   weight = 2
 
@@ -189,7 +189,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020. [Thanks](https://github.com/librezo/librezo-hugowebsite) to [Hugo](https://gohugo.io)"
+copyright = "Copyright &copy; 2022. [Thanks](https://github.com/librezo/librezo-hugowebsite) to [Hugo](https://gohugo.io)"
 
 
 ################################### French language #####################################
@@ -200,4 +200,4 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 # copyright
-copyright = "Copyright &copy; 2020. [Généré](https://github.com/librezo/librezo-hugowebsite) grâce à [Hugo](https://gohugo.io)"
+copyright = "Copyright &copy; 2022. [Généré](https://github.com/librezo/librezo-hugowebsite) grâce à [Hugo](https://gohugo.io)"
