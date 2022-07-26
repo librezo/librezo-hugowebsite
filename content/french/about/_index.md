@@ -21,9 +21,9 @@ Librezo est un collectif de professionnels qui mutualisent leurs savoir-faire po
 
 La mission de Librezo s’inscrit dans une volonté technique de décentralisation des serveurs informatiques pour se préserver de la surveillance généralisée et de censure. Cette décentralisation répond également à la nécessaire réduction de l’empreinte énergétique du numérique.
 
-L'appartenance au réseau Librezo n'est pas liée à des accords financiers ou commerciaux, mais à l'adhésion à des valeurs communes :
+Appartenir au réseau Librezo, c'est adhérer à des valeurs communes :
 * Liberté en tant que non nuisance symétrique.
-* Horizontalité de la prise de décision.
+* Horizontalité privilégiée dans la gouvernance.
 * Partage et transmission des connaissances.
 * Autonomie et entraide.
 * Contribution au développement de l’écosystème du logiciel libre.

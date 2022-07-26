@@ -21,9 +21,9 @@ Librezo is a collective of professionals who pool their know-how to:
 
 Librezo's mission is part of a technical desire to decentralize computer servers to protect itself from general surveillance and censorship. This decentralization also responds to the necessary reduction of the digital energy footprint.
 
-Belonging to the Librezo network is not linked to financial or commercial agreements, but to adherence to common values:
+Belonging to the Librezo network means adhering to common values:
 * Freedom as symmetrical non-nuisance.
-* Horizontality of decision-making.
+* Horizontality favored in governance.
 * Sharing and transmission of knowledge.
 * Autonomy and mutual aid.
 * Contribution to the development of the free software ecosystem.
