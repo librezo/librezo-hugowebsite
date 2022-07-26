@@ -1,0 +1,1 @@
+../../french/author/baptiste-malet-schalck-toulouse.md

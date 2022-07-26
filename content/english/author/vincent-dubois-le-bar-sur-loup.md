@@ -1,0 +1,1 @@
+../../french/author/vincent-dubois-le-bar-sur-loup.md
